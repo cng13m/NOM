@@ -3,6 +3,7 @@ node_modules/
 .cache/
 .vite/
 .wrangler/
+.vercel/
 coverage/
 
 # Local credentials and environment overrides
