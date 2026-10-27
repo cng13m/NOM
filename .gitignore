@@ -1,0 +1,31 @@
+# Dependencies and tooling caches
+node_modules/
+.cache/
+.vite/
+.wrangler/
+coverage/
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Deployment packages and logs
+*.tar
+*.tar.gz
+*.tgz
+*.log
+npm-debug.log*
+
+# Editor and operating system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
+
+# dist/ is the authored static website and must remain tracked.
