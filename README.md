@@ -12,4 +12,6 @@ The verification command checks the actual deployment folder for the NOM homepag
 
 Includes category filtering, six project detail views, approach disclosures, and a locally downloaded enquiry brief. No form data is transmitted. Replace illustrative projects, studio copy, and photography with approved NOM material before using as a business website. Images supplied by Unsplash; fonts served by Google Fonts (DM Sans and Manrope).
 
+The project collection includes a Work index, an About panel, and full-screen case studies. Direct project links use `/#project/courtyard` (or the other project IDs in `dist/app.js`), so refreshing them works on static hosting without rewrite rules. Case-study detail images are labeled crops of the original reference photograph. Project styles are in `dist/projects.css`.
+
 The concept enquiry intentionally creates a local text file until a real studio email or form service is supplied.
