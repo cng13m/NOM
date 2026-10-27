@@ -1,5 +1,7 @@
 /* NOM project collection — an index, a studio note, and image-led case studies. */
 .collection{position:relative;margin-top:64px}
+.work.section{padding-top:24px;padding-bottom:64px}
+.work .collection{margin-top:0}
 .collection-nav{display:grid;grid-template-columns:2fr 1fr 1fr;gap:10px;position:relative;z-index:4}
 .collection-brand,.collection-toggle{min-height:43px;padding:0 20px;border:0;border-radius:30px;background:#e3e4dc;font-size:11px;letter-spacing:.01em;display:flex;align-items:center;justify-content:space-between;gap:15px}
 .collection-brand>span:first-child{font-weight:600}
