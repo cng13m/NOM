@@ -23,7 +23,7 @@
 .about-panel ul{padding:0;list-style:none;margin:0 0 28px}
 .about-panel .text-link{font-size:11px;gap:12px}
 .collection .work-toolbar{margin:27px 0 24px;padding:0;border:0}
-.collection .project-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}
+.collection .project-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:14px}
 .collection .project{animation:none}
 .collection .project-img{aspect-ratio:4/5;border-radius:clamp(26px,4vw,60px);isolation:isolate}
 .collection .project-name{font-size:clamp(18px,1.9vw,28px)}
